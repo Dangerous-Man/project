@@ -10,6 +10,6 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   
-  https://github.com/Dangerous-Man/project.git
-  
+<!--   https://github.com/Dangerous-Man/project.git
+ -->  
 </web-app>
